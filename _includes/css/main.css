@@ -98,14 +98,7 @@ header {
     background: #{{ site.color.primary }};
     text-align: center;
     background-color: #fff;
-    /* background: #cbc9c9; */
-    background-image: url(https://cdn10.bigcommerce.com/s-hhbbk/products/791/images/3847/PORT0001__50302.1460460935.1280.1280.png?c=2);
-    background-image: url(https://cdn.iconscout.com/icon/free/png-256/portugal-flag-country-nation-union-empire-33058.png);    
-    background-image: url(https://i.pinimg.com/originals/53/fe/e9/53fee9aefa95438a90ab1dd67992b53f.png);    
-    
-    /* background-image: url(https://ak2.picdn.net/shutterstock/videos/24154822/thumb/1.jpg); */
-    /* background-repeat: no-repeat; */
-    /* background-size: cover; */
+    background-image: url(/img/portugal-flag.png);
 }
 
 header .container {
